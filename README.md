@@ -1,3 +1,5 @@
 # KadoKado-Games
 Kadokado flash games
-fichier swf a ouvir dans un lecteur flash 
+Open the swf files in flash player
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. http://creativecommons.org/licenses/by-nc-sa/4.0/
